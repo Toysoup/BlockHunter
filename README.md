@@ -1,6 +1,6 @@
 # BlockHunter
 
-有幾個文件資料夾因意外無法上傳，建議複製lib跟android文件夾到新的Android studio Flutter文件內啟動，抱歉造成不便。
+有幾個文件資料夾因意外無法上傳，建議複製lib、ios、android文件夾到新的Android studio Flutter文件內啟動，抱歉造成不便。
 
 ## Getting Started
 
